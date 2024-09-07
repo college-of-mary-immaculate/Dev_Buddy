@@ -1,0 +1,41 @@
+{
+    "ralp": {
+        "hours": 1,
+        "breaks": 1,
+        "time_unit": "minutes",
+        "options": {
+            "vscode": false,
+            "terminal": false,
+            "youtube": true,
+            "google": false,
+            "figma": false,
+            "github": false
+        }
+    },
+    "yco": {
+        "hours": 2,
+        "breaks": 1,
+        "time_unit": "minutes",
+        "options": {
+            "vscode": false,
+            "terminal": true,
+            "youtube": false,
+            "google": false,
+            "figma": false,
+            "github": false
+        }
+    },
+    "test_1": {
+        "hours": 2,
+        "breaks": 1,
+        "time_unit": "minutes",
+        "options": {
+            "vscode": true,
+            "terminal": true,
+            "youtube": true,
+            "google": true,
+            "figma": true,
+            "github": true
+        }
+    }
+}

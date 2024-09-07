@@ -1,0 +1,26 @@
+{
+    "vscode": {
+        "label": "VS Code",
+        "path": "C:\\Users\\user\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    "terminal": {
+        "label": "Terminal",
+        "path": "cmd.exe"
+    },
+    "youtube": {
+        "label": "YouTube",
+        "url": "https://youtube.com"
+    },
+    "google": {
+        "label": "Google",
+        "url": "https://Google.com"
+    },
+    "figma": {
+        "label": "Figma",
+        "url": "https://Figma.com"
+    },
+    "github": {
+        "label": "GitHub",
+        "url": "https://Github.com"
+    }
+}
