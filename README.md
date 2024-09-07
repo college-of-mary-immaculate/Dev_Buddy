@@ -4,7 +4,7 @@
 Dev Buddy is a Python-based application designed to streamline and automate the process of accessing commonly used development tools and software. It provides developers with an easy-to-use interface that allows them to launch their frequently used applications quickly, minimizing time spent on manual navigation. Additionally, Dev Buddy helps promote healthy work habits by monitoring usage patterns and preventing excessive or prolonged use of specific software, contributing to better productivity and well-being.
 
 ## Requirements
-To run the Weather Tracker application, you will need the following:
+To run the Dev Buddy application, you will need the following:
 - Python 3.7 or higher
 - Libraries specified in `requirements.txt` 
 
@@ -12,7 +12,7 @@ To run the Weather Tracker application, you will need the following:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/username/repo-to-clone
+git clone https://github.com/college-of-mary-immaculate/Dev_Buddy.git
 ```
 
 ### 2. Install Dependencies
